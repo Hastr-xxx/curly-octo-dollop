@@ -1,0 +1,2 @@
+DB_FILENAME = 'botuploads.db'
+TOKEN = '7670043153:AAGgI5X-L7qpG-Ej_UomcgbZPfQ3R0qr1m8'
